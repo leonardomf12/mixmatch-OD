@@ -1,3 +1,6 @@
+# Useless Folders
+.idea
+
 # Devenv
 .devenv*
 devenv.local.nix
