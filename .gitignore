@@ -1,5 +1,6 @@
 # Useless Folders
 .idea
+.venv
 
 # Devenv
 .devenv*
